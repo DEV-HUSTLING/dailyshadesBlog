@@ -21,7 +21,7 @@ function page() {
             alt=" icon"
             width={100}
             height={500}
-             className="2xl:w-lg"
+             className="2xl:w-20"
           />
           
           </a>
