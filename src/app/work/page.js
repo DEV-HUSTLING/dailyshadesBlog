@@ -39,7 +39,7 @@ function page() {
 
          <div className='gallery-card bg-gray-200 rounded-md drop-shadow-sm overflow-hidden  text-wrap flex flex-col gap-8 h-48 w-md p-4 overflow-auto'>
           <h3 className='text-4xl'>Resume</h3>
-            <p>Simple Resume Enhancer with the support of LLM </p><br/>
+            <p><a href="https://resumifyy.netlify.app/" target='blank'>Simple Resume Enhancer with the support of LLM </a></p><br/>
           <span className='absolute bottom-0 flex w-full pr-10 justify-between align-center'>
             <p className='text-xs'><b>6/2025-1/7/2025</b></p>
             <p >blog</p>
